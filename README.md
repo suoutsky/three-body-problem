@@ -6,7 +6,7 @@
 ## [js](https://github.com/suoutsky/three-body-problem/labels/js)
 [7种创建对象](https://github.com/suoutsky/three-body-problem/issues/1)
 
-
+[js异同步(Promise..)](https://github.com/suoutsky/three-body-problem/issues/4)
 ## [Vue](https://github.com/suoutsky/three-body-problem/labels/vue)
 
 [动态组件](https://github.com/suoutsky/three-body-problem/issues/3)
