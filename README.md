@@ -4,7 +4,7 @@
 
 
 ## [js](https://github.com/suoutsky/three-body-problem/labels/js)
-[7种创建对象](https://github.com/suoutsky/three-body-problem/issues/1)
+1. [7种创建对象](https://github.com/suoutsky/three-body-problem/issues/1)
 
 [js异同步(Promise..)](https://github.com/suoutsky/three-body-problem/issues/4)
 ## [Vue](https://github.com/suoutsky/three-body-problem/labels/vue)
@@ -13,4 +13,7 @@
 
 ## [http](https://github.com/suoutsky/three-body-problem/labels/http)
 
-[了解ajax](https://github.com/suoutsky/three-body-problem/issues/2)
+1. [了解ajax](https://github.com/suoutsky/three-body-problem/issues/2)
+
+## [前端工程](https://github.com/suoutsky/three-body-problem/labels/%E5%B7%A5%E7%A8%8B%E5%8C%96)
+1. [构建常用npm包](https://github.com/suoutsky/three-body-problem/issues/5)
