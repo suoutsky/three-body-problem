@@ -1,8 +1,8 @@
 ---
-title: vue组件之Alert
+title: Vue组件之Alert
 date: 2017-10-16
-categories: vue
-tags: vue
+categories: Vue
+tags: Vue
 toc: true
 ---
 # 前言
@@ -87,7 +87,7 @@ export default Alert
 </Alert>
 ```
 
-#Attribute
+# Attribute
 
 | 参数      | 说明          | 类型      | 可选值                           | 默认值  |
 |---------- |-------------- |---------- |--------------------------------  |-------- |
