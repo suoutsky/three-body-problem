@@ -11,6 +11,9 @@
 
 [动态组件](https://github.com/suoutsky/three-body-problem/issues/3)
 [从动态组件到响应原理](https://github.com/suoutsky/three-body-problem/issues/6)
+[Vue之插件编写](https://github.com/suoutsky/three-body-problem/issues/8)
+[Vue组件之Alert](https://github.com/suoutsky/three-body-problem/issues/9)
+[Vue组件之Tooltip](https://github.com/suoutsky/three-body-problem/issues/10)
 ## http
 
 1. [了解ajax](https://github.com/suoutsky/three-body-problem/issues/2)
