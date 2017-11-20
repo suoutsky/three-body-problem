@@ -7,6 +7,7 @@
 1. [7种创建对象](https://github.com/suoutsky/three-body-problem/issues/1)
 
 2. [js异同步(Promise..)](https://github.com/suoutsky/three-body-problem/issues/4)
+
 ## Vue
 
 1. [动态组件](https://github.com/suoutsky/three-body-problem/issues/3)
@@ -14,6 +15,14 @@
 3. [Vue之插件编写](https://github.com/suoutsky/three-body-problem/issues/8)
 4. [Vue组件之Alert](https://github.com/suoutsky/three-body-problem/issues/9)
 5. [Vue组件之Tooltip](https://github.com/suoutsky/three-body-problem/issues/10)
+
+## react
+1. [react高阶组件](https://github.com/suoutsky/three-body-problem/issues/12)
+
+## react-router
+
+## redux
+
 ## http
 
 1. [了解ajax](https://github.com/suoutsky/three-body-problem/issues/2)
