@@ -20,5 +20,18 @@
 
 2. [了解XMLHttpRequest](https://github.com/suoutsky/three-body-problem/issues/7)
 
+## 前端性能优化
+
+1. [图片优化相关](https://github.com/suoutsky/three-body-problem/issues/11)
+
 ## 前端工程
 1. [构建常用npm包](https://github.com/suoutsky/three-body-problem/issues/5)
+
+## 数据(前端相关，及其他部分关键名词，技术概要)   todo
+
+1. 用户关键数据上报 
+2. 后端uv记录
+3. 原始数据清洗
+4. 原始数据存储
+5. 实时离线
+6. 算法指标
