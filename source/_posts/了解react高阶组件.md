@@ -1,5 +1,5 @@
 ---
-title: 初识react高阶组件
+title: 了解react高阶组件
 date: 2017-11-20
 categories: js
 tags: react

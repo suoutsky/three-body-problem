@@ -64,6 +64,7 @@ export default {
 ## 2. 添加全局资源
 
 ```js
+// vue 2.x
 export default {
     install(Vue, options) {
         Vue.directive('dom', {
