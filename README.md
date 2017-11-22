@@ -15,7 +15,7 @@
 3. [Vue之插件编写](https://github.com/suoutsky/three-body-problem/issues/8)
 4. [Vue组件之Alert](https://github.com/suoutsky/three-body-problem/issues/9)
 5. [Vue组件之Tooltip](https://github.com/suoutsky/three-body-problem/issues/10)
-6. [自定义指令-移动dom](https://github.com/suoutsky/three-body-problem/issues/14)
+6. [自定义指令-移动dom](https://github.com/suoutsky/three-body-problem/issues/14)
 ## react
 1. [react高阶组件](https://github.com/suoutsky/three-body-problem/issues/12)
 
