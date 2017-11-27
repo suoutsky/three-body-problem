@@ -151,3 +151,71 @@ export default directive {}
 directives: { TransferDom },
 
 ```
+
+```html
+/**
+ *
+ * Get target DOM Node
+ * @param {any} node
+ * @returns {Node}
+ */
+function getNode(node) {
+  // if (node === void 0) {
+  //   node = document.body;
+  // }
+  console.log(node);
+  // setTimeout(() => {
+  console.log(document.querySelector('.top-rank-type-wrap'));
+  return node instanceof window.Node ? node : document.querySelector('.top-rank-type-wrap');
+  // }, 1);
+};
+
+// const homes = new Map();
+
+export default {
+  install(Vue, options) {
+    Vue.directive('transfromDom', {
+      bind: function() {
+        let self = this;
+        Vue.nextTick(function() {
+          let value = self.value;
+          console.log(`'name - '       + ${self.name} + '<br>' +
+          'expression - ' +  ${self.expression} + '<br>' +
+          'argument - '   +  ${self.arg} + '<br>' +
+          'modifiers - '  +  ${JSON.stringify(self.modifiers)} + '<br>' +
+          'value - '      +  ${value}`);
+          const { parentNode } = self.el;
+          const home = document.createComment('');
+          // let hasMovedOut = false;
+          parentNode.replaceChild(home, self.el);
+          getNode(value).parentNode.insertBefore(self.el, getNode(value));
+          // hasMovedOut = true;a
+          // if (!homes.has(self.el)) homes.set(self.el, { parentNode, home, hasMovedOut });
+        });
+      },
+      update: function() {
+        // let value = this.expression;
+        // const { parentNode, home, hasMovedOut } = homes.get(this.el);
+        // if (!hasMovedOut && value) {
+        //   // 移除原来位子
+        //   parentNode.replaceChild(home, this.el);
+        //   // 添加到目标位置
+        //   getNode(value).appendChild(this.el);
+        //   homes.set(this.el, Object.assign({}, homes.get(this.el), { hasMovedOut: true }));
+        // } else if (hasMovedOut && value === false) {
+        //   // 移动过，移回原地
+        //   parentNode.replaceChild(this.el, home);
+        //   homes.set(this.el, Object.assign({}, homes.get(this.el), { hasMovedOut: false }));
+        // } else if (value) {
+        //   // 移动过一次移到别的地方
+        //   getNode(value).appendChild(this.el);
+        // }
+      },
+      unbind: function() {
+        // homes.delete(this.el);
+      }
+    });
+  }
+};
+
+```

@@ -8,6 +8,9 @@
 
 2. [js异同步(Promise..)](https://github.com/suoutsky/three-body-problem/issues/4)
 
+3. [文件下载](https://github.com/suoutsky/three-body-problem/issues/15)
+
+4. [EventLoop](https://github.com/suoutsky/three-body-problem/issues/16)
 ## Vue
 
 1. [动态组件](https://github.com/suoutsky/three-body-problem/issues/3)
@@ -23,8 +26,7 @@
 1. [了解React-Router](https://github.com/suoutsky/three-body-problem/issues/14)
 
 ## redux
-1. [react高阶组件](https://github.com/suoutsky/three-body-problem/issues/13)
-2. [了解redux](https://github.com/suoutsky/three-body-problem/issues/13)
+1. [了解redux](https://github.com/suoutsky/three-body-problem/issues/13)
 
 ## http
 
