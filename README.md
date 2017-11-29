@@ -19,6 +19,8 @@
 4. [Vue组件之Alert](https://github.com/suoutsky/three-body-problem/issues/9)
 5. [Vue组件之Tooltip](https://github.com/suoutsky/three-body-problem/issues/10)
 6. [自定义指令-移动dom](https://github.com/suoutsky/three-body-problem/issues/14)
+7. [Vue源码之生命周期](https://github.com/suoutsky/three-body-problem/issues/17)
+8. [Vue生命周期看源码](https://github.com/suoutsky/three-body-problem/issues/18)
 ## react
 1. [react高阶组件](https://github.com/suoutsky/three-body-problem/issues/12)
 
