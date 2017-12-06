@@ -11,6 +11,15 @@
 3. [文件下载](https://github.com/suoutsky/three-body-problem/issues/15)
 
 4. [EventLoop](https://github.com/suoutsky/three-body-problem/issues/16)
+
+5. [js垃圾回收](https://github.com/suoutsky/three-body-problem/issues/21)
+
+6. [js异步编程](https://github.com/suoutsky/three-body-problem/issues/22)
+
+7. [js尾递归](https://github.com/suoutsky/three-body-problem/issues/23)
+
+## css
+[css基础书写规范](https://github.com/suoutsky/three-body-problem/issues/19)
 ## Vue
 
 1. [动态组件](https://github.com/suoutsky/three-body-problem/issues/3)
@@ -44,10 +53,11 @@
 1. [构建常用npm包](https://github.com/suoutsky/three-body-problem/issues/5)
 
 ## 数据(前端相关，及其他部分关键名词，技术概要)   todo
-
 1. 用户关键数据上报 
 2. 后端uv记录
 3. 原始数据清洗
 4. 原始数据存储
 5. 实时离线
 6. 算法指标
+
+1. [数据规范](https://github.com/suoutsky/three-body-problem/issues/20)
