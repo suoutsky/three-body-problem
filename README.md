@@ -11,7 +11,6 @@
 3. [文件下载](https://github.com/suoutsky/three-body-problem/issues/15)
 
 4. [EventLoop](https://github.com/suoutsky/three-body-problem/issues/16)
-<<<<<<< HEAD
 
 5. [js垃圾回收](https://github.com/suoutsky/three-body-problem/issues/21)
 
@@ -21,7 +20,7 @@
 
 ## css
 [css基础书写规范](https://github.com/suoutsky/three-body-problem/issues/19)
-=======
+
 ## js数据结构与算法
 
 
@@ -91,7 +90,7 @@
 - 优先队列 (PriorityQueue)
 - AVL树 (AVLTree)
 - 红黑树 (RedBlackTree)
->>>>>>> 911b8280855564cb5f62f79d46bfd25eb570bd7b
+
 ## Vue
 
 1. [动态组件](https://github.com/suoutsky/three-body-problem/issues/3)
