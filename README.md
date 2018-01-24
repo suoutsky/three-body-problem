@@ -32,7 +32,7 @@
 7. [Vue源码之生命周期](https://github.com/suoutsky/three-body-problem/issues/17)
 8. [Vue生命周期看源码](https://github.com/suoutsky/three-body-problem/issues/18)
 9. [Vue学习资料]
-   1. [风格指南](https://cn.vuejs.org/v2/style-guide/)
+   + [风格指南](https://cn.vuejs.org/v2/style-guide/)
 ## react
 1. [react高阶组件](https://github.com/suoutsky/three-body-problem/issues/12)
 
